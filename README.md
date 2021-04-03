@@ -99,3 +99,10 @@ The PC starts with 0 and increase by offsets of 4 because in this code no specif
 
 
 
+40.	**Circuit  Snapshot**
+41.	
+42.	![image](https://user-images.githubusercontent.com/81650320/113493417-9060df00-94f8-11eb-89fa-875a30227334.png)
+
+
+
+
