@@ -5,7 +5,7 @@ My name is Syed Jalaluddin Hussain Naqvi. This is my RISC-V Open Source Project.
 
 **Description**
 
-This is RISC-V  32-bit ISA. It contains Register file which is consist of 32 registers of 32-bit, ALU which performs all arithmetic operations, Decoder which decodes the instructions and give it to their  respective components, Immediate Generator which generates immediate of respective type  with the help of PC and instructions,  PC means program counter which normally increase with by 4 until any specific instruction given, Control  Unit gets three things opcode,FN3 and 30th bit of FN7 it is basically based on two sub component (Type Decode and Control Decode) which tells us what type instruction it is and what to do with it and it further passes to Register file or ALU  or Branch select or  Memory. Further we will discuss when we see how it works.
+This is RISC-V  32-bit ISA. It contains Register file which is consist of 32 registers of 32-bit, ALU which performs all arithmetic operations, Decoder which decodes the instructions and give it to their  respective components, Immediate Generator which generates immediate of respective type  with the help of PC and instructions,  PC means program counter which normally increase with offsets of 4 until any specific instruction given, Control  Unit gets three things opcode,FN3 and 30th bit of FN7 it is basically based on two sub component (Type Decode and Control Decode) which tells us what type instruction it is and what to do with it and it further passes to Register file or ALU  or Branch select or  Memory. Further we will discuss when we see how it works.
 
 
 **Components**
