@@ -57,7 +57,6 @@ The PC starts with 0 and increase by offsets of 4 because in this code no specif
 
 
 **Instructions Supported:**
-
 1.	add
 2.	addi
 3.	sub
@@ -98,11 +97,6 @@ The PC starts with 0 and increase by offsets of 4 because in this code no specif
 38.	bgeu
 
 
-
-40.	**Circuit  Snapshot**
-41.	
-42.	![image](https://user-images.githubusercontent.com/81650320/113493417-9060df00-94f8-11eb-89fa-875a30227334.png)
-
-
-
-
+Circuit Snapshot
+ 
+![image](https://user-images.githubusercontent.com/81650320/113493504-39a7d500-94f9-11eb-858d-8dc96dd7ae74.png)
