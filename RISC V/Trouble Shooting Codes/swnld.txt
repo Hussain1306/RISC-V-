@@ -1,0 +1,4 @@
+addi t0 zero 0xc
+slli t1 t0 0x3
+sw t1 0x10(t0)
+lw t2 0x10(t0)
