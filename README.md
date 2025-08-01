@@ -1,6 +1,6 @@
 # RISC-V-OPEN-SOURCE
 Hi,
-My name is Syed Jalaluddin Hussain Naqvi. This is my RISC-V Open Source Project. Its an open standard instruction set architecture (ISA) based on established reduced instruction set architecture (RISC) principles. Examples of RISC architecture includes MIPS, POWER PC, Microchip PIC, Arm and many more. Its first time designed in 2010 
+My name is Syed Jalaluddin Hussain Naqvi. This is RISC-V Open Source Project. Its an open standard instruction set architecture (ISA) based on established reduced instruction set architecture (RISC) principles. Examples of RISC architecture includes MIPS, POWER PC, Microchip PIC, Arm and many more. Its first time designed in 2010 
 
 
 **Description**
